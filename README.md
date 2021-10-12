@@ -7,4 +7,4 @@ This Project uses:
 * os (To save voice and text directorys) imported as OS;
 * playsound (To play wroten texts) imported as playsound;
 
-If you are interest to see what the calculator is able to do, here is a YT link demostrating the Calculator: https://www.youtube.com/watch?v=zj1BjBaGTmk
+If you are interest to see what the calculator is able to do, here is a YT link demostrating it: https://www.youtube.com/watch?v=zj1BjBaGTmk
