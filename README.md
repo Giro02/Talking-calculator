@@ -1,5 +1,5 @@
 # Talking-calculator
-This is a Calculator designed to help the Visualy impairment. It was developed in a python univesity class. There is steel room for improvement in this project.... so your tip is very welcome.
+This is a Calculator designed to help the Visualy impairment. It was developed in a python univesity class. There is still room for improvement in this project.... So i'm open for advices.
 
 This Project uses: 
 * speech_recognition (Google API to recognize your voice) imported as reconhecimento;
